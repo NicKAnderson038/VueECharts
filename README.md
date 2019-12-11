@@ -1,2 +1,0 @@
-# VueECharts
-Created with CodeSandbox
